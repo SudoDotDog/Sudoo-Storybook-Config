@@ -1,2 +1,3 @@
 # Sudoo-Storybook-Config
-:books: Storybook Config
+
+Storybook Config
