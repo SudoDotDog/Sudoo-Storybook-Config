@@ -1,12 +1,13 @@
 {
     "cSpell.words": [
-        "RMRF",
-        "WMXPY",
         "codecov",
         "mocharc",
+        "RMRF",
+        "storysource",
         "sudoo",
         "triforce",
-        "tshook"
+        "tshook",
+        "WMXPY"
     ],
     "eslint.options": {
         "configFile": "./typescript/.eslintrc.json"
